@@ -2,7 +2,7 @@ FEATURE LIST
 
 player temperature
 thirst
-cave will be 3x deeper (1000 blocks tall chunks)
+cave will be 12x deeper (4000 blocks tall chunks)
 water pressure
 ambient sounds
 more animals
@@ -20,9 +20,14 @@ torches die at rain
 dynamic lights
 colored lights
 zombies wont burn in daytime
-you can break trees via hand, you need to make primitive tools
-villagers dont walk on asphalt roads
+you cant break trees via hand, you need to make primitive tools
 voice chat (can be disabled for server owners)
-brewing alcohol
+brewing ethanol from all sorts of organic materials
 abandoned space bases
-footsteps on sandy blocks
+lithium extraction from lithium rich brine deposits
+sulfur extraction from volcanoes
+sodium and chlorine extraction from saltwater electrolysis
+space travel
+quarries
+increasing heat and stone hardness the more you go down requiring more advanced equipment and infrastructure
+geothermal power
